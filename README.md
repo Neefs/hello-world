@@ -2,4 +2,7 @@
 The simple Hello World in every language I know.
 
 ## Languages
-- Python
+- Java
+- Javascript
+- Python 2
+- Python 3
