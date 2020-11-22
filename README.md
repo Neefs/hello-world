@@ -7,3 +7,4 @@ The simple Hello World in every language I know.
 - Javascript
 - Python 2
 - Python 3
+- Swift
